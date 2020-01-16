@@ -18,3 +18,4 @@ Grand Total	    13901
 
 The association Flag is raissed when the Machine Learning Experiment resolves a dataset and its text is calassified accordingly.
 
+https://www.facebook.com/menno.drescher/posts/10215128591185425
